@@ -38,6 +38,5 @@ src/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/audio-recorder-app.git
 npm install
 npx pod-install   # iOS only
