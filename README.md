@@ -20,6 +20,21 @@
 
 ---
 
+## 📁 Project Structure
+
+src/
+├── assets/ # Static images, icons, fonts
+├── components/ # Shared UI components (e.g., Button)
+├── feature/ # Feature-specific logic or UIs
+├── hooks/ # Custom React hooks
+├── page/ # Top-level screen entry points
+├── screens/ # Specific screens for audio features
+├── services/ # File system access & other utilities
+├── store/ # Redux Toolkit slices and setup
+└── utils/ # Reusable utility functions
+
+---
+
 ## 📦 Installation
 
 ```bash
