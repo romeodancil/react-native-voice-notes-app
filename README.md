@@ -21,7 +21,7 @@
 ---
 
 ## 📁 Project Structure
-
+```
 src/
 ├── assets/ # Static images, icons, fonts
 ├── components/ # Shared UI components (e.g., Button)
@@ -32,7 +32,7 @@ src/
 ├── services/ # File system access & other utilities
 ├── store/ # Redux Toolkit slices and setup
 └── utils/ # Reusable utility functions
-
+```
 ---
 
 ## 📦 Installation
